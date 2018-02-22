@@ -3,7 +3,7 @@ This program starts a local server and local tunnel, executes selenium test for 
 
 # Prerequisites
 You need to first create an account in browser testing site, crossbrowsertesting.com. You will have free access to test site for 7 days for trial purpose. Also, you need to install selenium web driver to run selenium test in python on the local server.
-You need to replace each <<username>> in code by username and <<password> by password, which you used to sign up on the website
+You need to replace each "<<username>>" in code by username and "<<password>>" by password, which you used to sign up on the website.
 
 # Running the test
 Below is the order of file execution.
